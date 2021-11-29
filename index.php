@@ -1,8 +1,11 @@
 <?php 
-// Variables 
+//les  Variables 
 $title = "Nour Houmsi";
 $num =  40;
 $float = 3.14;
+$bool = true;
+$bool2 = false;
+$nothing = NULL;
 ?>
 <!DOCTYPE html>
 <html lang="en">
