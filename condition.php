@@ -1,10 +1,16 @@
 
 <?php
-$username = "Hajer";
-$email = "r@gamail.com" ;
-
+$username = "Hajer1";
+$email = "r@gamail.com1" ;
+/*
 if($username === "Hajer" || 
 $email === "hjr@gamail.com")
+{
+    echo"Welcome Admin";
+}
+*/ 
+if($username !== "Hajer" AND  
+$email !== "r@gamail.com")
 {
     echo"Welcome Admin";
 }
