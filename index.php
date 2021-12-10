@@ -1,5 +1,6 @@
 <?php 
 //les  Variables 
+
 $title = "Sam Dieb";
 $num =  40;
 $float = 3.14;
